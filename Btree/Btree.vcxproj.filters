@@ -18,10 +18,10 @@
     <ClCompile Include="Btree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\下载\18201963188c0d1eb70a2620c1ea4c0988ec35079f\bplustree.c">
+    <ClCompile Include="bplustree.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\下载\18201963188c0d1eb70a2620c1ea4c0988ec35079f\btree.c">
+    <ClCompile Include="btree.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

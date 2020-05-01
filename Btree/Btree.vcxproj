@@ -138,8 +138,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\下载\18201963188c0d1eb70a2620c1ea4c0988ec35079f\bplustree.c" />
-    <ClCompile Include="..\..\..\下载\18201963188c0d1eb70a2620c1ea4c0988ec35079f\btree.c" />
+    <ClCompile Include="bplustree.c" />
+    <ClCompile Include="btree.c" />
     <ClCompile Include="Btree.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
